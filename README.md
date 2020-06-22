@@ -9,7 +9,7 @@
 
 ## Deployed Link
 
-<https://TiciaR.github.io/Clicky-Game/>
+<https://ticiar.github.io/Clicky-Game/>
 
 
 
