@@ -8,7 +8,7 @@ function NavResult({messages, msgCode, currScore, maxScore}) {
           href=""
           className="navbar-brand"
         >
-          Animal Crossing <br/> Clicky Game
+         Disney <br/> Clicky Game
         </a>
 
         <span className="navbar-text text-center mx-auto d-none d-sm-block">{messages[msgCode].msg}</span>

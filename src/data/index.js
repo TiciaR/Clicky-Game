@@ -79,6 +79,7 @@ let characters = [
     }
 
 ]
+
 // Add Array Index as id Property to each element.
 characters = characters.map((ch, idx ) => {
     ch["id"] = idx;
