@@ -1,5 +1,6 @@
 .instructions  {
     margin-top: 160px !important;
+    background-color: rgb(45, 45, 180);
 }
 
 @media (min-width: 576px)  { 

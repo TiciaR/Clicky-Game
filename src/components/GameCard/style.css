@@ -7,12 +7,13 @@
 
 .game-card-img-wrapper img {
   /*  */
-  object-fit: cover; /* Do not scale the image and make it cover all spaces*/
+  object-fit: contain; /* Do not scale the image and make it cover all spaces*/
   object-position: center; /* Center the image within the element */
   width: 100%;
   /* Fix the hight proportionally to the ViewPort or Fix It */
   height: 25vh;
   /* height: 200px; */
+  background-color: white;
 }
 
 @keyframes shake {

@@ -1,4 +1,5 @@
 import React from "react";
+import "./style.css"
 
 function NavResult({messages, msgCode, currScore, maxScore}) {
   return (
@@ -8,7 +9,7 @@ function NavResult({messages, msgCode, currScore, maxScore}) {
           href=""
           className="navbar-brand"
         >
-         Disney <br/> Clicky Game
+         Disney's Pixar <br/> Clicky Game
         </a>
 
         <span className="navbar-text text-center mx-auto d-none d-sm-block">{messages[msgCode].msg}</span>

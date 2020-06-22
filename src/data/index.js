@@ -35,47 +35,53 @@ let characters = [
         "image": "https://vignette.wikia.nocookie.net/pixar/images/d/de/Wall%E2%80%A2e_clipped_rev_1.png/revision/latest?cb=20170807223723"
     },
     {
+        "id": 8,
+        "name": "Woody",
+        "image": "https://vignette.wikia.nocookie.net/disney/images/2/23/Woody_Prime_KHIII.png/revision/latest?cb=20200220173523"
+    },
+    {
         "id": 9,
-        "name": "Nemo",
-        "image": "https://pixar.fandom.com/wiki/Nemo?file=Nemo-FN.png"
+        "name": "Remy",
+        "image": "https://vignette.wikia.nocookie.net/disney/images/7/73/Profile_-_Remy.jpeg/revision/latest?cb=20190314174151"
     },
     {
         "id": 10,
-        "name": "Marlin",
-        "image": "https://pixar.fandom.com/wiki/Marlin?file=Marlin.png"
+        "name": "Emile",
+        "image": "https://vignette.wikia.nocookie.net/disney/images/4/4d/Profile_-_Emile.jpeg/revision/latest?cb=20190314175504"
     },
     {
         "id": 11,
-        "name": "Dot",
-        "image": "https://pixar.fandom.com/wiki/Dot?file=Dot.png"
-    },
-    {
-        "id": 12,
         "name": "Princess Atta",
         "image": "https://vignette.wikia.nocookie.net/pixar/images/e/e3/Attabug%27slife.png/revision/latest?cb=20110427121352"
     },
 
     {
-        "id": 13,
+        "id": 12,
         "name": "Arlo",
         "image": "https://vignette.wikia.nocookie.net/pixar/images/0/0e/Arlo_the_good_dinosaur_disney_pixar_1.png/revision/latest?cb=20170807223828"
     },
 
     {
-        "id": 14,
+        "id": 13,
         "name": "Butch",
         "image": "https://vignette.wikia.nocookie.net/pixar/images/c/c5/Butch.PNG/revision/latest?cb=20150709150809"
     },
     {
-        "id": 15,
+        "id": 14,
         "name": "Boo",
         "image": "https://vignette.wikia.nocookie.net/pixar/images/7/7c/Boo.png/revision/latest?cb=20110426152813"
     },
 
     {
-        "id": 16,
+        "id": 15,
         "name": "Celia Mae",
         "image": "https://vignette.wikia.nocookie.net/pixar/images/5/55/Celia_Mae.png/revision/latest?cb=20200207000010"
+    },
+
+    {
+        "id": 16,
+        "name": "Bruce",
+        "image": "https://vignette.wikia.nocookie.net/disney/images/d/d3/Profile_-_Bruce.jpg/revision/latest?cb=20190319020831"
     }
 
 ]
